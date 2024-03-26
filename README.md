@@ -10,4 +10,4 @@ https://raw.githubusercontent.com/Synqat/vencord-theme/main/theme.css
 ```
 
 ## There's a bug!
-Report any CSS bugs in the [Issues tab](https://github.com/Synqat/vencord-theme/issues).
+Report any CSS bugs in the [Issues tab](https://github.com/choccyy-milk/vencord-theme/issues).
