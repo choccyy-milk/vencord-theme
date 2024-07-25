@@ -389,7 +389,8 @@ html:root,
 body,
 html {
   text-rendering: optimizeLegibility !important;
-  font-family: "Gandhi Sans Bold", sans-serif !important;
+  font-family: "Gandhi Sans", sans-serif !important;
+  font-weight: bold !important;
 }
 
 [class*=membersWrap] {
