@@ -386,15 +386,11 @@ html:root,
   --yellow-900: var(--synqats-gb-accent-yellow);
 }
 
-body { 
-  font-weight: bold !important;
-}
-
 body,
 html {
   text-rendering: optimizeLegibility !important;
   font-family: "Gandhi Sans", sans-serif !important;
-  
+  font-weight: bold !important;
 }
 
 [class*=membersWrap] {
