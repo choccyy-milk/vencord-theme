@@ -6,7 +6,7 @@
 2. Navigate to `Vencord` -> `Themes` -> `Online Themes`
 3. Paste this link into the box labelled `ONLINE THEMES`:
 ```
-https://raw.githubusercontent.com/Synqat/vencord-theme/main/theme.css
+https://raw.githubusercontent.com/choccyy-milk/vencord-theme/main/theme.css
 ```
 
 ## There's a bug!
